@@ -105,6 +105,8 @@ To contribute:
 | [Siemens](https://jobs.siemens.com/jobs/318571?lang=en-us&jobPipeline=LinkedIn%28Wrap%29&sourceType=PREMIUM_POST_SITE) | Huntsville, AL OR Longmont, CO| Closed | Software Engineering Intern Co-Op |
 | [Splunk](https://www.splunk.com/en_us/careers/early-talent.html)| San Jose, CA (Remote Option), Vancouver, BC | Open | Software Engineering Co-op (QA, Android, iOS, AR, Front-end, Back-end) |
 | [LinkedIn](https://www.linkedin.com/jobs/search/?f_C=1337&geoId=103644278&keywords=intern%20fall%202022&location=United%20States) | Sunnyvale, CA or San Francisco, CA or New York, NY | Open | Software Engineer, Systems and Infra Engineer (Backend), UI Engineer, Mobile Engineer
+| [DoorDash](https://doordash.engineering/university/#internship) | LOS ANGELES, CA; NEW YORK, NY; SAN FRANCISCO, CA; SEATTLE, WA | Open | Software Engineer
+
 
 ## Other Semesters
 
